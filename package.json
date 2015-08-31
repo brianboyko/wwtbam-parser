@@ -1,0 +1,15 @@
+{
+  "name": "mvp",
+  "version": "0.0.0",
+  "description": "parser",
+  "main": "parser.js",
+  "dependencies": {
+    "fs": "~0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node parser.js"
+  },
+  "author": "Brian Boyko",
+  "license": "BSD-2-Clause"
+}
